@@ -4,6 +4,7 @@
   <p align="right">
      <img src="https://komarev.com/ghpvc/?username=liammm6969&label=Profile%20views&color=0e75b6&style=flat" alt="liammm6969" />
   </p>
+    <img src="[pics/header.png](https://tenor.com/ixzO7aZS0Yg.gif)">
   <br>
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=whitefont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kelhzcy+Pogi!;" />
