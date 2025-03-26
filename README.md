@@ -12,9 +12,9 @@
 
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Laundry Management System**  
-- 🌱 I’m currently learning **MERN Stack + Machine Learning (especially backend)**  
-- 🤝 I’m looking for help with **JavaScript**  
+- 🔭 I’m currently working on **TreePlotter**  
+- 🌱 I’m currently learning **G.I.S**  
+- 🤝 I’m looking for help with **Capstone**  
 
 ---
 
@@ -38,4 +38,4 @@
 
 ---
 
-🔥 **Fun fact:** _"If you are not obsessed with your life, change it."_
+🔥 **Fun fact:** _"Ghost of the Goon"_
