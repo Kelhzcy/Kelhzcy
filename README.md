@@ -2,9 +2,6 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5a9d8bf4-a752-4fbd-beb1-ab9f17789da1" />
-  <p align="right">
-     <img src="https://komarev.com/ghpvc/?username=liammm6969&label=Profile%20views&color=0e75b6&style=flat" alt="liammm6969" />
-  </p>
     <img src="https://tenor.com/ixzO7aZS0Yg.gif" alt="Greeting GIF">
   <br>
   <h1 align="center">
