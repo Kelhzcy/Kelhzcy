@@ -9,7 +9,7 @@
   </h1>
 </p>
 
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h3 align="center">Super Solid developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **TreePlotter**  
 - 🌱 I’m currently learning **G.I.S**  
