@@ -5,7 +5,7 @@
     <img src="https://tenor.com/ixzO7aZS0Yg.gif" alt="Greeting GIF">
   <br>
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kelhzcy+Pogi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoutout+Sayo!+👋;+I'm+Kelhzcy+Pogi!;" />
   </h1>
 </p>
 
