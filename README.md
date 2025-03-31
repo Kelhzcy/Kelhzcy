@@ -1,6 +1,8 @@
 ## Hi there Goth Girls👋🦇🦇
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/cad54b78-5ab7-48dd-82ec-3095e7ced929"/>
+
   <img src="https://github.com/user-attachments/assets/5a9d8bf4-a752-4fbd-beb1-ab9f17789da1" />
     <img src="https://tenor.com/ixzO7aZS0Yg.gif" alt="Greeting GIF">
   <br>
