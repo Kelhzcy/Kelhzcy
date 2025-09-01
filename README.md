@@ -4,7 +4,7 @@
   
   <img src="https://github.com/user-attachments/assets/cad54b78-5ab7-48dd-82ec-3095e7ced929"/>
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Kelhzcy+Pogi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sup+girl!+👋;+Its+ya+boi+Kem!;" />
   </h1>
 </p>
 
