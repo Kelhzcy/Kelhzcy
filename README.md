@@ -9,7 +9,8 @@
 </p>
 
 <h3 align="center">Super Solid developer from the Philippines</h3>
- [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kemsportfolio.netlify.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kemsportfolio.netlify.app/)
 
 - 🔭 I’m currently working on **TreePlotter**  
 - 🌱 I’m currently learning **G.I.S**  
