@@ -40,4 +40,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,git,github" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-purple.gif" />
+</p>
+
 ---
