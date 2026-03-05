@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-purple.gif" />
+  <img src="https://raw.githubusercontent.com/Kelhzcy/Kelhzcy/output/github-snake-purple.gif" />
 </p>
 
 ---
