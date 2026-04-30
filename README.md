@@ -32,13 +32,10 @@
   <a href="https://www.facebook.com/kelhzcy.afan.galano" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
-
   <a href="https://instagram.com/kemmmot" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages & Tools
 
