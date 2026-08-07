@@ -45,16 +45,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,git,github" />
 </p>
 
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kelhzcy&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelhzcy&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kelhzcy/Kelhzcy/output/github-snake-purple.gif" />
