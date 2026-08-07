@@ -1,4 +1,4 @@
-## Hi there Goth Girls 👋🦇🦇
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cad54b78-5ab7-48dd-82ec-3095e7ced929"/>
