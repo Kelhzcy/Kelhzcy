@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cad54b78-5ab7-48dd-82ec-3095e7ced929" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://i.pinimg.com/originals/5a/eb/8c/5aeb8c3a8cb226f4ae734beeadb2e093.gif" width="100%"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff79c6&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sup+girl!+%F0%9F%91%8B;It's+ya+boi+Kem!;Super+Solid+Developer+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
-</h1>
+<h1 align="center">Kem</h1>
 
-<h3 align="center">Super Solid Developer from the Philippines 🇵🇭</h3>
+<h3 align="center">Full-Stack Developer from the Philippines 🇵🇭</h3>
 
 <p align="center">
   <a href="https://kemsportfolio.netlify.app/" target="_blank">
@@ -22,9 +16,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **TreePlotter**
-- 🌱 I'm currently learning **G.I.S**
-- 🤝 I'm looking for help with **Capstone**
+- 💼 Currently working at **AITEC Solutions**
+- 🌱 Currently learning **Laravel, Vue & PHP**
+- 💻 Full-Stack Developer
 
 <br>
 
