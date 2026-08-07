@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/cad54b78-5ab7-48dd-82ec-3095e7ced929"/>
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=ff79c6&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sup+girl!+👋;+It's+ya+boi+Kem!;" />
+    <img src="[https://readme-typing-svg.herokuapp.com/?color=ff79c6&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sup+girl!+👋;+It's+ya+boi+Kem!;](https://pin.it/1H03fvBi0)" />
   </h1>
 
   <h3>Super Solid Developer from the Philippines 🇵🇭</h3>
